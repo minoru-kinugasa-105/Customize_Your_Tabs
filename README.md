@@ -1,2 +1,0 @@
-# Customize_Your_Tabs
-Chromeの拡張機能を作ってみました
