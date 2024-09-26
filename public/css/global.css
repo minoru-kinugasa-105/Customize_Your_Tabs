@@ -1,0 +1,12 @@
+:root {
+    --gray: #cccccc;
+    --gray-transparent: #cccccc66;
+    --black: #202124;
+}
+body {
+    margin: 0;
+}
+#app {
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    text-align: center;
+}
